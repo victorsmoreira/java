@@ -1,4 +1,4 @@
-package one.digitalinnovation.optionals;
+package com.moreiravictor.collectionsjava.optionals;
 
 import java.util.OptionalDouble;
 import java.util.OptionalInt;

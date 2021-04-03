@@ -1,7 +1,6 @@
-package one.digitalinnovation.map;
+package com.moreiravictor.collectionsjava.map;
 
 import java.util.Hashtable;
-import java.util.Iterator;
 import java.util.Map;
 
 public class ExemploHashTable {

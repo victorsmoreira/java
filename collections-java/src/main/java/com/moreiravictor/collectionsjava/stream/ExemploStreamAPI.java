@@ -1,4 +1,4 @@
-package one.digitalinnovation.stream;
+package com.moreiravictor.collectionsjava.stream;
 
 import java.util.ArrayList;
 import java.util.Comparator;

@@ -1,4 +1,4 @@
-package one.digitalinnovation.list;
+package com.moreiravictor.collectionsjava.list;
 
 import java.util.List;
 import java.util.Vector;

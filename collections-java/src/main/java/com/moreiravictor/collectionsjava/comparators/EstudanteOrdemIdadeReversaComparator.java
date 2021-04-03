@@ -1,4 +1,4 @@
-package one.digitalinnovation.comparators;
+package com.moreiravictor.collectionsjava.comparators;
 
 import java.util.Comparator;
 

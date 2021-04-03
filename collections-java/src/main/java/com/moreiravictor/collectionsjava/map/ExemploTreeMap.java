@@ -1,4 +1,4 @@
-package one.digitalinnovation.map;
+package com.moreiravictor.collectionsjava.map;
 
 import java.util.Iterator;
 import java.util.Map;

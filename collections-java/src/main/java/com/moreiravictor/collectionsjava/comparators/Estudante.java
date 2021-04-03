@@ -1,4 +1,4 @@
-package one.digitalinnovation.comparators;
+package com.moreiravictor.collectionsjava.comparators;
 
 public class Estudante implements Comparable<Estudante> {
 

@@ -1,4 +1,4 @@
-package one.digitalinnovation.set;
+package com.moreiravictor.collectionsjava.set;
 
 import java.util.HashSet;
 import java.util.Iterator;
